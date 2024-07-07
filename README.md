@@ -2,6 +2,13 @@
 
 CommentSense is an AI-powered content analysis and feedback system for TikTok videos. It leverages advanced natural language processing and computer vision technologies to provide creators with comprehensive insights and interactive assistance for their content.
 
+## Contributors
+- [@kaze-droid](https://github.com/kaze-droid)
+- [@Joulenergy](https://github.com/Joulenergy)
+- [@a13y](https://github.com/a13y)
+- [@dragonier23](https://github.com/dragonier23)
+- [@sj-c](https://github.com/sj-c)
+
 ## Getting Started
 
 ### 1. Setup a Gemini API (it's free!)
